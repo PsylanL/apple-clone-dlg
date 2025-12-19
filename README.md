@@ -58,27 +58,10 @@ Prerequisites:
 - Node.js 18+
 - npm (bundled with Node)
 
-Steps:
+▶️ Usage:
 ```
 npm install
 npm run dev
-```
-
-Environment variables (`.env.example`):
-```
-VITE_API_BASE_URL=https://api.example.com
-VITE_FEATURE_FLAGS=animations,video
-```
-
-## ▶️ Usage
-Run dev server (HMR):
-```
-npm run dev
-```
-Production build:
-```
-npm run build
-npm run preview
 ```
 
 ## 📜 License
