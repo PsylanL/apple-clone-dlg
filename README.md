@@ -52,11 +52,6 @@ A Vite + React single-page experience mirroring Apple’s product storytelling w
 ├─ vite.config.js
 └─ package.json
 ```
-Important folders:
-- src/components: Reusable sections (hero, highlights), device/3D viewers, loaders.
-- src/constants: Data driving UI text, links, and media references.
-- src/utils: Animation timelines and shared helpers.
-- public/assets: Images/videos and 3D models consumed at runtime.
 
 ## ⚙️ Installation & Setup
 Prerequisites:
@@ -85,26 +80,6 @@ Production build:
 npm run build
 npm run preview
 ```
-
-
-
-## 🔧 Configuration
-- Tailwind theme tokens via `tailwind.config.js`
-- Vite aliases, base path, and dev server options in `vite.config.js`
-- Feature flags (e.g., animations, video) via `VITE_FEATURE_FLAGS`
-- Asset paths configurable in constants files
-
-## 🗺️ Roadmap
-- Add dynamic localization and copy variants
-- Expand device gallery with color/angle selectors
-- Integrate CMS-driven content (e.g., headless CMS)
-- Add accessibility audit and improvements
-- Ship unit tests for animation utilities and sections
-
-## 🤝 Contributing
-- Fork, create a feature branch, commit with conventional messages, and open a PR.
-- Run `npm run lint` and `npm run build` before submitting.
-- Keep components small, typed props, and prefer composition over duplication.
 
 ## 📜 License
 - MIT License
