@@ -14,6 +14,9 @@ A Vite + React single-page experience mirroring Apple’s product storytelling w
 - Prebuilt navbar, hero, and CTA blocks for rapid customization
 - Lightweight Vite bundling with fast HMR dev loop
 
+  <img width="2542" height="1189" alt="image" src="https://github.com/user-attachments/assets/defbbcb9-7cbc-406a-8abe-38bccf590d0c" />
+
+
 ## 🧰 Tech Stack
 | Category  | Technologies |
 | --- | --- |
