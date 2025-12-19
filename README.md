@@ -1,8 +1,10 @@
 # 🍏 Apple Clone DLG
 Sleek Apple.com-inspired product showcase with 3D and motion.
+<img width="2542" height="1257" alt="image" src="https://github.com/user-attachments/assets/13a87088-e609-484f-b5ab-fb240f6e209b" />
 
 ## 🧭 Overview
 A Vite + React single-page experience mirroring Apple’s product storytelling with immersive 3D, smooth scroll-driven animations, and responsive design. Built for front-end learners and showcase enthusiasts who want a polished product page clone with performant interactions.
+<img width="2519" height="927" alt="image" src="https://github.com/user-attachments/assets/230a595f-6448-412a-94f7-fd9329c0a71b" />
 
 ## ✨ Key Features
 - Realistic 3D device render with orbit controls and smooth transitions
@@ -80,16 +82,8 @@ Production build:
 npm run build
 npm run preview
 ```
-Screenshot placeholders:
-- docs/screenshots/hero.png
-- docs/screenshots/device-3d.png
 
-## 🔌 API Endpoints
-| Method | Endpoint | Description |
-| --- | --- | --- |
-| GET | /health | Liveness probe |
-| GET | /content/highlights | Fetch highlight cards |
-| GET | /assets/models | List available models |
+
 
 ## 🔧 Configuration
 - Tailwind theme tokens via `tailwind.config.js`
