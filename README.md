@@ -68,5 +68,5 @@ npm run dev
 - MIT License
 
 ## 👤 Credits
-- JavaScript Mastery [(https://www.youtube.com/@javascriptmastery)](https://github.com/adrianhajdin)
+- JavaScript Mastery (https://github.com/adrianhajdin)
 
